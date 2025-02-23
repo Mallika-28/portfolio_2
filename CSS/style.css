@@ -90,7 +90,7 @@ header .logo {
   letter-spacing: 2px;
 }
 header.sticky .logo {
-  color: #201549;
+  color: #d5c7ba;
 }
 header ul {
   position: relative;
@@ -108,7 +108,7 @@ header ul li a {
   text-decoration: none;
 }
 header.sticky ul li a {
-  color: #201549;
+  color: #d5c7ba;
 }
 section {
   padding: 100px;
@@ -139,7 +139,7 @@ section {
   width: 100%;
   text-align: center;
   margin-bottom: 30px;
-  color: #201549;
+  color: #d5c7ba;
 }
 .heading.white {
   color: #fff;
@@ -156,7 +156,7 @@ section {
   font-size: 30px;
 }
 .services {
-  background: #201549;
+  background: #d5c7ba;
 }
 .services .content {
   display: flex;
@@ -211,7 +211,7 @@ section {
   font-weight: 400;
 }
 .contact {
-  background: #201549;
+  background: #d5c7ba;
 }
 .formBx {
   min-width: 60%;
